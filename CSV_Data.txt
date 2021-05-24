@@ -1,0 +1,6 @@
+row_id;user_id;user_state;user_manager
+db-1;iron.man;active;nick.fury
+db-2;cap.america;active;nick.fury
+db-3;hulk;active;nick.fury
+db-4;black.panther;active;wakanda
+db-5;thor;active;odin

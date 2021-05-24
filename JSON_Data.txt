@@ -1,0 +1,1 @@
+{"clasificacion-bd":[{"base-de-datos":"db-1","clasificacion":"high"},{"base-de-datos":"db-2","clasificacion":"low"},{"base-de-datos":"db-3"},{"base-de-datos":"db-4","clasificacion":"medium"},{"base-de-datos":"db-5","clasificacion":"low"}]}
